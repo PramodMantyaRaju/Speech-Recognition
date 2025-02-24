@@ -43,5 +43,5 @@ This project provides a **structured pipeline** for **speech recognition and ben
 
 ## **Code**
 
-- **To explore the code**, access the Jupyter Notebook: `"Speech_Recognition.ipynb"`
+- **To explore the code**, access the Jupyter Notebook: "Speech_Recognition.ipynb"
 
