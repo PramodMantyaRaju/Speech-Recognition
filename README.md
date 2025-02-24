@@ -16,7 +16,7 @@ The objective of this project is to implement and benchmark different **ASR mode
 ## **Key Highlights**
 ### **Comprehensive Speech Processing**
 - **Audio Preprocessing:** Converts raw audio into a standardized format (**mono, 16-bit, 16kHz WAV**).
-- **Noise Reduction:** Uses `noisereduce` to eliminate background noise.
+- **Noise Reduction:** Uses **"noisereduce"** to eliminate background noise.
 
 ### **Advanced ASR Model Benchmarking**
 - **Google Speech API**: Cloud-based ASR for high-accuracy speech recognition.
